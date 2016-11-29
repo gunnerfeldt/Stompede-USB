@@ -1,6 +1,7 @@
 
 /*
     This comment was written locally on Pelles MacBook 22:24
+    // Macbook tues-wed night
 */
 
 var rl = require("readline");
